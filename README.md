@@ -1,2 +1,2 @@
 # sudoku_solver
-ALgorithm for solving a sudoku puzzle
+Algorithm for solving a sudoku puzzle, use recusrion and backtracking
